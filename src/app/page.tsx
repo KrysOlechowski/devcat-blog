@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
-  return <div>Dev Cat </div>;
+  return <div className="h-screen relative">dev cat</div>;
 }
